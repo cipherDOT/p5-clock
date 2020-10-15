@@ -52,7 +52,7 @@ function draw() {
     line(0, 0, 0, 50);
     pop();
 
-    colorpoint = map(mouseX, 0, width, 0, 255)
+    colorpoint = map(mouseX, 0, width, 0, 255);
     stroke(colorpoint, colorpoint / 2, colorpoint);
     point(0, 0);
 
