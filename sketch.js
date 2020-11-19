@@ -1,4 +1,4 @@
-// This is a bassic model of clock. I just followed along with Daniel Shiffman, a wonderful programmer, a creative coder.
+// This is a bassic model of clock. I just followed along with Daniel Shiffman
 // https://www.youtube.com/thecodingtrain --> channel Daniel Shiffman
 // https://www.youtube.com/watch?v=E4RyStef-gY&t=474s --> video link
 // I am just starting out on JavaScript and wanted to learn p5.js
