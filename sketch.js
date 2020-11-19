@@ -57,13 +57,6 @@ function draw() {
     line(0, 0, 0, 50);
     pop();
 
-    // colorpoint = map(mouseX, 0, width, 0, 255);
-    // stroke(colorpoint, colorpoint / 2, colorpoint);
     stroke(255);
     point(0, 0);
-
-    // stroke(169, 169, 169);
-    // arc(200, 200, 300, 300, 0, end * 2);
-
-    // an idea is to map the mouseX to the color like the point to the hands of the clock
 }
